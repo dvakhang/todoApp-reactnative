@@ -1,0 +1,17 @@
+{
+  "expo": {
+   "name": "Todo App",
+   "description": "Todo app for me",
+   "icon": "./icon.png",
+   "version": "1.0.0",
+   "slug": "todo",
+   "sdkVersion": "25.0.0",
+   "ios": {
+     "bundleIdentifier": "com.dou.khangdong",
+     "supportsTablet": true
+   },
+   "android": {
+     "package": "com.dou.khangdong"
+   }
+  }
+}
